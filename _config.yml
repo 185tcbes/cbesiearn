@@ -3,7 +3,7 @@ title: 竹北國小 | iEarn計劃展示廳
 email: 185thjh@gmail.com
 description: 竹北國小iEarn測試計劃.
 baseurl: "/cbesiearn" # the subpath of your site, e.g. /blog
-url: "https://185tcbes.github.io/" # the base hostname & protocol for your site
+url: "https://185tcbes.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
